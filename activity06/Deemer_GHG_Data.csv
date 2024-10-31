@@ -1,0 +1,268 @@
+System,Latitude,Longitude,Amazon,Region,Country,Alpine,hydropower,Use,ch4,co2,age ,chlorophyll.a,mean.depth,surface.area,volume,Residence Time (days),DIP,precipitation,runoff,airTemp
+Acton Reservoir,39.57,-84.73,no,Temperate,United States,,no,Recreation,,31.8,50,59,3.9,2.5,,292,21.64,1039,459,10.61
+Al-Wihdeh,32.73,35.87,no,Temperate,Jordan/Syria,,unknown,,,1445.45,3,,,0.82,0.01,247,138.71,349,124,19.6
+Alamo Lake,34.25,-113.5,no,Temperate,United States,,no,Flood Control,,-199.22,35,3.58,,4.22,,,0.07,208,0,20.09
+Allatoona,34.14,-84.64,no,Temperate,United States,,yes,,22.12,446.38,63,4.4,9.2,49,0.45,36,43.84,1339,468,15.37
+Alouette Lake,49.32,-122.43,no,Temperate,Canada,,yes,,,-111,74,,,16,,,40.14,1769,1198,8.24
+Angerman,63.19,17.23,no,Boreal,Sweden,,yes,,,30.8,70,,,854,,,1.95,592,279,3.07
+Apache Lake,33.57,-111.25,no,Temperate,United States,,yes,,,-252,77,4.25,,4.21,,,0.13,425,0,19.82
+Arivaca Lake,31.52,-111.25,no,Temperate,United States,,unknown,,,11.46,33,,,0.13,,,1.56,468,0,16.6
+Arrow-Lower,59.63,-118.15,no,Boreal,Canada,,yes,,4.95,-281.5,33,,74.2,520,38.6,,0,403,124,-3.7
+Arrow-Narrows,49.43,-123.25,no,Temperate,Canada,,yes,,44.7,44.7,27.5,,74.2,520,38.6,,249,,817,
+Arrow-Upper,50.32,-117.9,no,Boreal,Canada,,yes,,17.25,283.4,33,,,520,,,8.98,868,546,6.92
+Baihua,26.68,106.53,no,Subtropical,China,,yes,,,344.06,47,,12,14.5,0.22,,222.31,1181,1034,15.87
+Baker Reservoir,37.38,-113.64,no,Temperate,United States,,unknown,,,223.79,53,0.35,,0.01,,,9,353,0,11.42
+Balbina,-1.92,-59.47,yes,Tropical,Brazil,,yes,,36.1,2356,18.33,,10,1770,17.5,365,9.26,2394,1536,27.31
+Baoshan,24.07,121.03,no,Subtropical,Taiwan,,no,Water Supply,3.32,-80.14,6,8.65,,1.93,0.03,204,,,,
+Baroon Lake,-26.7,152.86,no,Subtropical,Austrailia,,no,Water Supply,4.95,,,,,4,,,1.76,1756,799,19.09
+Barra Bonita,-22.52,-48.58,no,Subtropical,Brazil,,yes,,12.78,1061.7,41.67,7.85,11.1,324,4,30,21.56,1271,69,20.99
+Bartlett Lake,33.82,-111.62,no,Temperate,United States,,unknown,,,97.98,64,,,3.3,,,42.5,368,0,20.45
+Baskatong (Mercier),46.72,-75.8,no,Temperate,Canada,,yes,,2.4,316.6,70,,6.3,413,2.6,13140,10.07,935,453,3.32
+Bersimis,49.65,-70.15,no,Temperate,Canada,,yes,,0.08,407.7,43,,2,798,1.6,,11.17,961,631,0.06
+Bianco,46.4,10.02,no,Temperate,Switzerland,yes,yes,,0,,94,,14,2,0.1,150,28.86,1258,336,-0.43
+Bill Evans,32.87,-108.58,no,Temperate,United States,,unknown,,,86.78,35,,,0.25,,,0.07,361,0,13.86
+Bornos,36.78,-5.75,no,Temperate,Spain,,no,Irrigation,,498,,7,,23.4,0.22,,15.96,725,146,16.33
+Brantley Lake,32.54,-104.38,no,Temperate,United States,,unknown,,,-63.86,23,,,12.43,,,2.19,311,0,16.58
+Brisay/Caniapiscau,54.67,-70.43,no,Boreal,Canada,,yes,,7.35,182.5,19,,7.9,4318,34.3,803,9.03,768,622,-5.45
+Bunch Reservoir,34.03,-109.43,no,Temperate,United States,,unknown,,,39.85,74,,,0.03,,,1.26,571,0,6.72
+Buntzen,49.35,-122.85,no,Temperate,Canada,,yes,,,384.8,88,,,2,,,353.16,1525,808,8.06
+Burr Oak Reservoir,39.53,-82.05,no,Temperate,United States,,no,Flood Control,,91.3,57,21,4.5,2.7,,65.7,18.63,1011,286,10.89
+Cabonga,46.8,-75.8,no,Temperate,Canada,,yes,,10.43,376.6,79,,3,434,1.3,584,10.07,938,453,3.28
+Cahora Bassa,-15.59,32.7,no,Tropical,Zambia/Zimbabwe,,yes,,1.4,-356,38,,20.9,2675,52,,2.08,689,173,25.95
+Caniapiscau,54.4,-69.86,no,Boreal,Canada,,unknown,,7.35,182.45,19,,,,,,10.19,783,660,-5.02
+Cat Arm,50.08,-57.58,no,Boreal,Canada,,yes,,,615.5,16,,23.3,43,1,,,1117,,2.18
+Chippewa Lake,46.18,-90.98,no,Temperate,United States,,yes,,7,106.4,73,,,61,,,2.55,829,361,3.83
+Cle Elum,47.28,-121.11,no,Temperate,United States,,no,Irrigation,1.31,,79,0.24,,19.4,0.54,,13.68,1114,2510,7.04
+Cochiti Lake,35.61,-106.31,no,Temperate,United States,,no,Flood Control,,433.12,28,2.82,,4.86,,,8.9,269,0,12.22
+Conchas Lake,35.38,-104.23,no,Temperate,United States,,no,Flood Control,,358.34,68,1.59,,38.85,,,,349,0,14.17
+Corumbá,-17.98,-48.52,no,Tropical,Brazil,,yes,,228.6,475.09,8,137.5,21.8,55,1.2,40,30.13,1323,603,24.21
+Curua-Una,-2.82,-54.28,yes,Tropical,Brazil,,yes,,42.5,791.63,22,,6.9,72,1,29,17.67,1827,861,25.72
+Danjiangkou,32.72,111.55,no,Temperate,China,,yes,,,138.17,32,3.5,157,745,17.45,,48.53,839,0,15.52
+Day Lake,46.18,-90.9,no,Temperate,United States,,yes,,7,190.9,29,,,2,,,2.55,832,361,3.89
+Deer Creek Reservoir,40.4,-111.52,no,Temperate,United States,,unknown,,,-78.87,62,5.45,,4.86,,,73.84,626,0,5.54
+Dillon Lake,39.62,-106.05,no,Temperate,United States,yes,yes,,16,,27,,24.6,13,0.3,,3.65,418,295,1.93
+Dix,46.07,7.4,no,Temperate,Switzerland,yes,yes,,0.04,,45,,93.3,4,0.4,45,39.07,1786,728,0.33
+Douglas,35.96,-83.54,no,Temperate,United States,,yes,,2.98,1056.27,69,3.7,11.6,115,1.33,91,47.6,1190,604,13.64
+Duncan Lake,54.42,-126,no,Boreal,Canada,,yes,,7.5,-220.9,37,,30.6,56,1.7,,1.26,485,159,1.84
+Dworshak,46.57,-116.25,no,Temperate,United States,,yes,,3.3,-324.3,31,,116.2,37,4.3,1215,1.19,729,465,8.84
+Eagle Creek,39.85,-86.3,no,Temperate,United States,,no,,7.07,528.89,37.5,,,5.5,0.03,56,198.29,1024,364,10.82
+Eastmain 1,51.5,-74,no,Boreal,Canada,,yes,,2.39,949.8,2.5,2.78,11,602.9,6.94,145,3.63,858,581,-2.02
+Eastmain-Opinica,52.78,-76.62,no,Boreal,Canada,,yes,,8,940.9,13,,7,600,4.2,1460,3.11,732,449,-2.77
+Ecological Station of Seridó ,-6.58,-37.26,no,Tropical,Brazil,,no,Irrigation,28,510,70,47.5,2,0.2,0,,3.88,929,0,25.23
+ELA High C Reservoir,49.67,-94.75,no,Temperate,Canada,,no,Experimental,3.91,148,0.8,,0.9,0.01,0,8.7,3.91,590,175,2.26
+ELA Lake 979,49.77,-93.8,no,Temperate,Canada,,no,Experimental,41.1,872.7,1,,,0.17,,,0.11,665,182,2.06
+ELA Low C Reservoir,49.67,-94.75,no,Temperate,Canada,,no,Experimental,2.96,145.03,0.8,,1.1,0.01,0,6.85,3.91,590,175,2.26
+ELA Medium C Reservoir,49.67,-94.75,no,Temperate,Canada,,no,Experimental,2.83,153.73,0.8,,0.9,0.01,0,6,3.91,590,175,2.26
+Elephant Butte Lake,33.15,-107.19,no,Temperate,United States,,unknown,,,300.2,56,,,161.87,,,1.23,240,0,15.46
+Emigrant ,42.15,-122.6,no,Temperate,United States,,no,Irrigation,8.36,,89,1.26,16.1,3.26,0.05,560,29.07,554,0,10.72
+EOL,53.45,-77.1,no,Boreal,Canada,,yes,,2.85,316.6,24,,,,,,2.72,692,411,-3.28
+Ertan,27,102,no,Subtropical,China,,yes,,2.16,,11,,,101,5.8,165,26.73,1059,90,15.82
+F.D. Roosevelt,47.9,-118.77,no,Temperate,United States,,yes,,11,-126,62,,37.9,306,11.6,76,0.56,326,2,8.03
+Fei Tsui,24.9,121.57,no,Subtropical,Taiwan,,yes,Water Supply,0.51,,26,,39.4,10.24,0.41,,141.09,3277,1558,20.65
+Fontana,35.45,-83.81,no,Temperate,United States,,yes,,4.38,178.81,68,5.9,41.4,43,1.78,180,10.92,1436,1145,13.65
+Foster,44.42,-122.62,no,Temperate,United States,,yes,,41.7,,44,1.35,15.2,4.9,0.08,30,19.53,1446,1299,10.92
+Funil,-22.52,-44.55,no,Subtropical,Brazil,,yes,,57.6,-328.3,39.33,8.03,19.7,27,0.5,55,20.79,1513,734,21.08
+Furnas,-20.67,-46.25,no,Subtropical,Brazil,,yes,,21.7,120.6,44,,15.4,1342,20.7,503,41.43,1480,427,20.65
+Gatun,9.23,-79.88,no,Tropical,Panama,,yes,,370.4,608.5,85,10.62,12.4,431,5,365,162.39,2860,1353,26.68
+Gold Creek Reservoir,-27.45,152.86,no,Subtropical,Austrailia,,no,Water Supply,582.33,,128,11,,0.19,0,,64.06,1236,228,19.56
+Gouin,48.93,-74.95,no,Temperate,Canada,,yes,,2.03,181.4,39,,47.9,1789,85.7,4124,6.18,997,652,0.12
+Grand Rapids,53.15,-99.28,no,Boreal,Canada,,yes,,0.43,168.15,39,,,,,,1.26,470,159,0.33
+Great Falls,50.45,-90,no,Boreal,Canada,,yes,,11.48,1569.3,86,,,10,,,2.17,743,329,-0.42
+Great Lake,-41.87,146.75,no,Temperate,Austrailia,yes,yes,,1.43,2.73,,,3.6,114,,576,7.74,1101,472,6.17
+Green Meadow Lake,32.75,-103.17,no,Temperate,United States,,unknown,,,-2.73,53,,,0.06,,,6.57,398,0,16.02
+Green Valley,41.1,-94.39,no,Temperate,United States,,unknown,,,-32.88,,,3.6,1.7,0,438,4.19,879,185,9.74
+Grimsel,46.57,8.33,no,Temperate,Switzerland,yes,yes,,0.4,,74,,37.1,3,0.1,35,26.16,1691,1349,1.52
+Gruyere,46.65,7.1,no,Temperate,Switzerland,,yes,,0.7,192.8,59,2.38,20.8,10,0.2,75,91.61,966,1091,7.72
+Guadalacín,36.67,-5.78,no,Temperate,Spain,,no,Irrigation,,123,,2.1,,36.7,0.85,,15.96,696,146,17.15
+Gunlock Reservoir,37.25,-113.78,no,Temperate,United States,,unknown,,,271,33,2.2,,0.44,,,9,252,0,14.52
+Guntersville,34.42,-86.39,no,Temperate,United States,,yes,,14.33,308.84,73,1.8,4.5,279,1.26,14,25.81,1390,735,15.72
+Hartwell,34.47,-82.85,no,Temperate,United States,,yes,,17.09,257.06,50,9.5,13.9,226,3.15,56,12.28,1284,348,15.94
+Hinds,49.65,-57.07,no,Temperate,Canada,,yes,,,574.09,23,,,21,,,14.75,1096,692,2.34
+Hongfeng,26.55,105.42,no,Subtropical,China,,yes,,,157.53,50,12.7,20,57.2,0.6,,44.68,1159,925,15.31
+Hongjiadu,26.87,105.85,no,Subtropical,China,,yes,,,65.5,4,1.23,,80.5,4.9,,47.47,1121,798,15.67
+Hongyan,26.79,106.54,no,Subtropical,China,,yes,,,269.2,36,,,,0.04,,222.31,1172,1034,15.52
+Horseshoe Lake Reservoir,33.98,-111.72,no,Temperate,United States,,unknown,,,341.4,58,2.7,,1.74,,,42.5,378,0,19.84
+Huntington Lake,39.33,-110.93,no,Temperate,United States,,unknown,,,140,37,3.04,,0.37,,,0.37,231,0,8.27
+Indal,62.57,17.07,no,Boreal,Sweden,,yes,,,,70,,30.8,1176,,,3.81,642,238,3.25
+Itaipu,-25.38,-54.55,no,Subtropical,Brazil,,yes,,8.03,46.5,13.5,,95.6,1350,129,39,41.09,1707,673,21.38
+Itezhi Tezhi,-15.77,26.02,no,Tropical,Zambia/Zimbabwe,yes,yes,,25.8,737,35,,,365,6,,2.86,814,285,21.17
+Itumbiara,-18.4,-49.05,no,Tropical,Brazil,,yes,,39.4,172.12,25,,21,719,15.1,146,34.02,1156,444,24.27
+JC Boyle,42.13,-122.03,no,Temperate,United States,,yes,,360.76,,55,6.27,3.4,1.7,0,,0.52,489,211,8.02
+Jones Reservoir,49.38,-122.02,no,Temperate,Canada,,yes,,,-58.1,50,,,5,,,40.14,1683,1198,8.77
+Jordanelle Reservoir,40.62,-111.4,no,Temperate,United States,,unknown,,,-41.76,10,,,5.41,,,3.43,529,179,5.9
+Kachess,47.25,-121.2,no,Temperate,United States,,no,Irrigation,1.99,,101,0.4,,18.37,0.3,,13.68,1280,2510,7.12
+Kafue Gorge,-15.81,28.42,no,Tropical,Zambia/Zimbabwe,yes,yes,Hydropower,25.8,737,39,,,13,1,,3.53,747,253,21.91
+Kariba,-17,28,no,Tropical,Zambia/Zimbabwe,,yes,,10.1,-141,52,,,5400,160,912.5,1.29,733,46,24.72
+Keechelus,47.35,-121.37,no,Temperate,United States,,no,Irrigation,0.74,,96,0.25,,,0.19,,13.68,1871,2510,6.54
+Keno,42.12,-121.92,no,Temperate,United States,,no,Irrigation,242.79,,46,12.03,,9.8,0.02,,8.32,435,6,8
+Kettle,56.38,-94.63,no,Boreal,Canada,,yes,,0,144.13,34,,,,,,5.83,466,0,-2.32
+King Talal,32.19,35.89,no,Temperate,Jordan ,,unknown,Irrigation,,190.91,23,,,1.6,0.03,115,102.55,370,186,17.63
+Kinsbasket,52.13,-118.45,no,Boreal,Canada,,yes,,,144.5,19,,,430,,,9.73,779,823,4.3
+Kootenay Lake,49.35,-116.75,no,Temperate,Canada,,yes,,17.63,-38.7,20,,94.3,389,36.7,657,11.97,651,258,7.37
+L.C.B. de Carvalho,-20.15,-47.25,no,Subtropical,Brazil,,yes,,6.62,447.8,38,,,,,,28.7,1475,422,21.65
+La Grande 1,54.5,-78.52,no,Boreal,Canada,,yes,,6.6,454.6,24,,17.1,70,1.2,1460,3.79,593,289,-4
+La Grande 3,54.2,-76.13,no,Boreal,Canada,,yes,,6.08,329.6,19,,24.8,2420,60,4453,5.65,678,524,-3.88
+La Grande 4,54.6,-73.22,no,Boreal,Canada,,yes,,8.1,321.3,20,,28.8,765,22,4015,5.14,722,608,-5.02
+Lac Du Bonnet,50.27,-96.02,no,Boreal,Canada,,yes,,17.85,940.1,47,,,126,,,0.82,509,46,2.31
+Lac St-Jean ,50.07,-70.52,no,Boreal,Canada,,yes,,11.3,403.6,47,,,1053,,109.5,4.52,999,843,-0.69
+Lacamas Lake,45.37,-122.25,no,Temperate,United States,,no,Flood Control,66.27,,73,5.38,7.8,1.3,0,60,31.89,2036,902,9.85
+Laforge-1,54.2,-72.58,no,Boreal,Canada,,yes,,20.48,477.7,6,2.5,6.2,1288,8,96,5.06,739,602,-4.63
+Laforge-2,54.95,-70.25,no,Boreal,Canada,,yes,,5.63,227.2,19,,,260,,292,9.03,757,622,-5.63
+Lago de Guadalupe,19.63,-99.3,no,Tropical,Mexico,yes,unknown,,699.6,,,51.95,,4.5,,,732.38,757,192,15.24
+Lago el Llano,19.66,-99.51,no,Tropical,Mexico,yes,unknown,,85.58,,,6.85,,0.06,,,83.61,1003,140,12.47
+Lago Loiza,18.3,-66.02,no,Tropical,United States,,yes,,50.83,,41,15.38,6.1,2.4,0.01,19.35,881.47,1941,634,24.46
+Lago Olmeca,19.15,-96.15,no,Tropical,Mexico,,unknown,,3935.48,,,247.07,,0.62,,,241.71,1557,559,25.51
+Lago Umecuaro,19.52,-101.24,no,Tropical,Mexico,yes,unknown,,43.35,,,50.3,,1.31,,,164.18,1062,168,16.17
+Lake Burbury,-42.12,145.67,no,Temperate,Austrailia,,unknown,,3.3,249.55,,,16.9,54,,,17.84,2563,931,10.44
+Lake Darling,41.19,-91.89,no,Temperate,United States,,unknown,,,-16.44,,,2.2,1,0,25.55,5.61,894,219,10.21
+Lake Gordon,-42.73,146.17,no,Temperate,Austrailia,,unknown,,0.16,175.09,32,,35,272,12.5,846,12.15,2042,439,10.07
+Lake Havasu,34.48,-114.38,no,Temperate,United States,,yes,,,570.9,65,0.56,,31.69,,,4.95,116,0,22.97
+Lake King William,-42.23,146.25,no,Temperate,Austrailia,,unknown,,0.98,28.36,56,,12.6,,,105,13.56,1574,618,7.65
+Lake Lyman,34.35,-109.35,no,Temperate,United States,,unknown,,,203.9,91,13.86,,1.64,,,1.26,314,0,10.75
+Lake Mead,36.42,-114.65,no,Temperate,United States,,yes,,,314.9,68,,,18.02,32.24,,8.76,169,0,17.11
+Lake Pedder,-42.93,146.13,no,Temperate,Austrailia,,unknown,,0.98,127.09,34,,12.6,,,636,12.15,2097,439,10.01
+Lake Plimsoll,-41.89,145.62,no,Temperate,Austrailia,,unknown,,1.88,313.91,,,6.5,,,30,16.29,2810,1350,8.72
+Lake Powell,36.93,-111.48,no,Temperate,United States,,yes,,,224.6,40,,,266.46,30,7.2,1.59,108,0,15.24
+Lake Powell (Bullfrog Basin),36.93,-111.48,no,Temperate,United States,,yes,,,156.9,40,1,,266.46,,,1.59,108,0,15.24
+Lisdorf,49.3,6.76,no,Temperate,Germany,,yes,,88.76,,,,,0.06,,,26.19,691,295,9.69
+Little Nerang Dam,-28.14,153.28,no,Subtropical,Austrailia,,no,Water Supply,136.4,,48,8.81,,0.5,,,26.7,1704,711,18.41
+Little Pine Lagoon,-42,146.6,no,Temperate,Austrailia,yes,unknown,,8.33,75.82,,,1.2,,,6,4.91,1001,361,6.19
+Liyutan,24.33,120.77,no,Subtropical,Taiwan,,unknown,,1.99,-130.27,19,19.3,,4.49,0.12,126,379.75,2008,1076,21.18
+Ljungan,62.52,14.45,no,Boreal,Sweden,,yes,,,43.4,70,,,134,,,2.09,586,197,2.74
+Ljusnan/Voxnan,62.05,15.12,no,Boreal,Sweden,,yes,,,68.2,70,,,210,,,2.05,607,132,3.17
+Lokka,67.82,27.73,no,Boreal,Finland,,yes,,91.3,480.4,27.67,18.61,3.65,417,2.1,559,0.66,481,349,-1.35
+Lower Charrette Lake,36.18,-104.8,no,Temperate,United States,,unknown,,,252.7,73,,3,,,,0.27,401,0,9.27
+Lower Enterprise Reservoir,37.52,-113.85,no,Temperate,United States,,unknown,,,89.79,83,,,0.13,,,0.23,354,0,9.22
+Lule,65.83,21.67,no,Boreal,Sweden,,yes,,,12.3,70,,,574,,,2.91,486,106,1.16
+Lungern,46.8,8.17,no,Temperate,Switzerland,,yes,,0.1,96.3,86,,31,2,0.1,150,26.16,1231,1349,7.3
+Luzzone,46.57,8.97,no,Temperate,Switzerland,yes,yes,,0.1,686.2,46,,61.1,1,0.1,230,44.02,1550,1168,2.27
+Macallister Lake,35.52,-105.18,no,Temperate,United States,,unknown,,,331.6,43,,,0.4,,,3.49,405,0,9.16
+Maelpaeg,48.35,-57.05,no,Temperate,Canada,,yes,,,375.3,33,,,328,,,16.74,1334,928,2.67
+Maelpaeg (Granite Lake),48.33,-57.6,no,Temperate,Canada,,yes,,,889.9,31,,,80,,,17.85,1459,969,1.83
+Mainskaya,52.97,91.5,no,Boreal,Russia,,yes,,0.43,504,,,,11.5,0.12,,0.44,391,482,0.94
+Manic 1,49.35,-68.58,no,Temperate,Canada,,yes,,8.48,832.9,52,,,12,,,5.9,947,647,1.04
+Manic 2,49.77,-68.63,no,Temperate,Canada,,yes,,4.5,231.3,34,,9.7,124,1.2,,7.22,970,701,-0.03
+Manic 3,50.23,-69.03,no,Boreal,Canada,,yes,,0.83,83.5,28,,44.1,236,10.4,,7.1,954,656,-0.93
+Manic 5,51.33,-69.15,no,Boreal,Canada,,yes,,4.58,383.7,38,,60.8,1973,120.1,2920,9.64,924,551,-1.78
+Manicouagan,51.38,68.7,no,Boreal,Canada,,unknown,,,634.64,35,0.67,,1950,,2336,0.95,290,13,1.9
+Manimuthar,8.63,77.42,no,Tropical,India,,unknown,,0.48,-169.72,54,,,,,,28.82,1090,426,26.66
+Manso,-14.87,-55.77,no,Tropical,Brazil,,yes,,94.45,495.2,5.5,,15.7,357,5.6,430,10.51,1488,95,24.7
+Mascarenhas de Moraes,-20.27,-47.05,no,Subtropical,Brazil,,yes,,8.53,299.5,49,,,249,3.72,44,28.7,1434,422,21.17
+McArthur Falls,50.38,-95.98,no,Boreal,Canada,,yes,,0.02,96.09,52,,,,,,0.19,320,98,-8.41
+Meadowbank Lake,-42.53,146.74,no,Temperate,Austrailia,,unknown,,0.75,31.64,,,13.6,,,6,5.72,576,190,11.5
+Mettlach,49.49,6.58,no,Temperate,Germany,,yes,,38.79,,,,,0.39,,,26.19,691,295,9.69
+Millsite Reservoir,39.1,-111.2,no,Temperate,United States,,unknown,,,520.7,29,0.98,,0.71,,,1.16,229,171,7.99
+Minersville Reservoir,38.23,-112.8,no,Temperate,United States,,unknown,,,49.9,89,1.63,,1.62,,,0.53,292,0,8.97
+Miramar,32.92,-117.1,no,Temperate,United States,,no,Water Supply,,-10.5,53,1.68,,0.66,0.01,,905.15,347,,16.86
+Miranda,-18.92,-48.03,no,Tropical,Brazil,,yes,,224.8,1143.9,9.67,,158.1,51,8,420,175.35,1414,536,22.12
+Miyun,40.42,117,no,Temperate,China,,yes,,9.45,,52.5,16,,91.4,,,50.18,542,0,10.3
+Moose Lake,46.02,-91.07,no,Temperate,United States,,yes,,3,354.5,73,,,7,7.1,266,2.19,823,306,3.97
+Morphy Lake,35.93,-105.4,no,Temperate,United States,,unknown,,,-93.06,64,,,0.15,,,3.49,515,0,6.8
+Murray,32.78,-117.04,no,Temperate,United States,,no,Water Supply,,-21.06,95,4.02,,0.81,0.01,,905.15,308,,17.42
+Nam Leuk,18.45,102.95,no,Tropical,Lao PDR,,yes,,30.03,-192.18,10,,14,13,0.19,127.75,24.3,2485,1217,24.2
+Nam Ngum,18.53,103.55,no,Tropical,Lao PDR,,yes,,2.4,37.23,38,,19,350,7,273.75,7.93,2379,2195,22.27
+Nam Theun 2,17.98,104.95,no,Tropical,Lao PDR,,yes,,195.6,,1,,7.8,260,3.53,,13.88,2439,2068,22.87
+Navajo Lake,36.8,-107.61,no,Temperate,United States,,no,Irrigation,,205.5,40,1.19,,60.7,,,2.06,344,0,9.17
+Nelson Lake,46.08,-91.5,no,Temperate,United States,,yes,,6,193.6,61,,,25,,,2.19,777,306,4.38
+New Melones,37.98,-120.52,no,Temperate,United States,,yes,,5.32,-322.9,25,,100,38,3.8,793,50.11,637,2,15.32
+Nielisz,50.78,23.02,no,Boreal,Poland,,yes,,1622.99,,2,,2,10.6,0.02,,18.06,553,131,7.49
+Nihe,46.28,126.6,no,Temperate,China,,no,Irrigation,,173.57,34,18.8,,40,0,,19.06,536,109,3.12
+Oberaar,46.55,8.27,no,Temperate,Switzerland,yes,yes,,0.3,,53,,41.8,1,0.1,45,26.16,1902,1349,-0.51
+Okhla,28.55,77.32,no,Subtropical,India,,no,,87,,20,,2,3.7,,,,,,
+Opinaca,52.78,-76.62,no,Boreal,China,,yes,,,514.1,23,,9,947,8.5,1460,3.11,732,449,-2.77
+Oroville,39.55,-121.43,no,Temperate,United States,,yes,,3.15,280.7,36,,129.4,34,4.4,1337,10.55,1127,912,15.34
+Otter Creek Reservoir,38.17,-112.02,no,Temperate,United States,,unknown,,,340,88,0.7,,4.13,,,0.2,237,0,7.73
+Outaouais,45.93,-74.67,no,Temperate,Canada,,yes,,,349.6,41,,,,,,11.53,991,575,4.62
+Outardes 3,49.95,-69.35,no,Temperate,Canada,,yes,,0.08,23.2,30,,,11,,,6.43,954,695,-0.53
+Outardes 4,50.27,-69.2,no,Boreal,Canada,,yes,,0.68,596.5,32,,28,625,17.5,7843,7.1,1002,656,-1.77
+Oyun ,8.5,8.25,no,Tropical,Nigeria,,no,Water Supply,,54.6,39,133.76,2.6,0.69,0,12,15.08,1318,538,27.86
+Palar-Porunthalar,10.37,77.48,no,Tropical,India,,unknown,,34.23,36.03,,,,,,,12,693,610,27.09
+Pampulha,-19.83,-43.97,no,Tropical,Brazil,,no,,591.34,,75,43.7,5.08,1.96,9.15,19,591.45,1374,340,21.41
+Parapalar ,10.42,77.68,no,Tropical,India,,unknown,,8.05,16.46,,,,,,,28.01,711,3,25.52
+Parker Canyon Lake,31.42,-110.45,no,Temperate,United States,,unknown,,,190.2,77,,,1.02,,,2.28,524,0,14.62
+Patagonia Lake,31.48,-110.85,no,Temperate,United States,,unknown,,,612.1,35,,,0.42,,,35.83,462,0,16.07
+Pena Blanca Lake,31.4,-111.08,no,Temperate,United States,,unknown,,,41.5,45,,,0.07,,,1.25,469,0,16.22
+Péribonka,49.27,-72.02,no,Temperate,Canada,,yes,,,682.9,,,,19,,,4.25,894,466,1.07
+Petit Saut,5.05,-53.03,yes,Tropical,French Guiana,,yes,,63.88,1245.66,10,,9.6,365,3.5,180,21.9,2921,1392,25.84
+Pine Falls,50.57,-96.2,no,Boreal,Canada,,yes,,0.08,928.4,50,,,9,,,0.6,511,75,2.17
+Pipmuacan,49.65,-70.27,no,Temperate,Canada,,unknown,,,511.2,,,,802,,,11.17,989,631,-0.23
+Piute Reservoir,38.32,-112.18,no,Temperate,United States,,unknown,,,141.1,88,6.66,,4.11,,,0.2,257,0,7.64
+Pleasant Lake,33.88,-112.27,no,Temperate,United States,,unknown,,,-139.2,76,,,2.46,,,172.76,300,0,20.7
+Pointe du Bois,50.3,-95.53,no,Boreal,Canada,,yes,,,846,35,,,593,,,0.37,540,44,1.94
+Porttipahta,68,26.75,no,Boreal,Finland,,yes,,9.5,496.35,25,6.27,6.3,214,1.4,310,0.64,475,328,-1.79
+Poway,33.01,-117.01,no,Temperate,United States,,no,Water Supply,,-84.24,42,1.52,,0.26,0,,144.78,368,0,17.16
+Prairie Rose,41.6,-95.21,no,Temperate,United States,,unknown,,,-16.44,,,2.7,0.8,0,138.7,2.79,819,96,9.07
+Quail Creek Reservoir,37.18,-113.38,no,Temperate,United States,,unknown,,,103.7,18,1.5,,0.97,,,2.29,235,0,16.32
+Red Indian,49.3,-57.08,no,Temperate,Canada,,yes,,,208.4,93,,,184,,,11.59,1051,584,3.37
+Rehlingen,49.37,6.7,no,Temperate,Germany,,yes,,26.18,,,,,0.17,,,26.19,691,295,9.69
+Revelstoke,51,-118.2,no,Boreal,Canada,,yes,,,600,8,,44.2,120,5.3,,14.08,1032,2646,6.67
+Ribeirão das Lages,-22.7,-43.88,no,Subtropical,Brazil,,yes,,,22.1,95,,15,30,0.5,279,694.21,1387,500,21.14
+Riviere-des-Prairies,45.58,-73.65,no,Temperate,Canada,,yes,,0.37,180.17,78,,,,,,535.67,972,439,6.22
+Robert Lake,33.03,-108.16,no,Temperate,United States,,unknown,,,186.9,40,,,0.29,,,0.07,418,0,11.33
+Robert-Bourassa (La Grande-2),53.67,-77,no,Boreal,Canada,,yes,,6.34,336,21.4,1.3,21.8,2835,61.7,207,3,686,468,-3.43
+Robertson,51,-59.88,no,Boreal,Canada,,yes,,4.58,384,7,,,73,,,12.99,1140,1066,0.11
+Rockport Reservoir,40.78,-111.4,no,Temperate,United States,,unknown,,,421.4,46,0.2,,1.95,,,3.43,450,179,6.48
+Roosevelt Lake,33.67,-111.15,no,Temperate,United States,,unknown,,,-125.7,92,1.93,,21.39,,,0.13,414,0,19.6
+Ross Barnett Reservoir,32.43,-90.03,no,Temperate,United States,,no,Water Supply,,321.41,45,,3.66,134.67,,,61.58,1359,406,17.73
+Rzeszów,50.01,21.99,no,Boreal,Poland,,unknown,,1719.54,1253.52,36,18.4,0.5,1.18,0,2,64.61,623,224,7.47
+Saarbrucken,49.24,6.93,no,Temperate,Germany,,yes,,2.52,,,,,0.04,,,26.19,691,295,9.69
+Sainte-Marguerite 2,50.52,-67.07,no,Boreal,Canada,,yes,,3.08,410.7,,,,,,,10.49,1157,816,-1.96
+Sainte-Marguerite 3,51.67,-67.03,no,Boreal,Canada,,yes,,2.03,1661.8,2.5,1.2,47,253,11.9,,7.12,1067,916,-3.98
+Samuel,-8.8,-63.42,yes,Tropical,Brazil,,yes,,49.1,1966.4,12.75,,8.9,559,5,105,13.54,2275,1903,26.07
+Sandy,49.42,-57.05,no,Temperate,Canada,,yes,,,684.5,39,,5.4,508,2.7,,11.59,1044,584,3.31
+Santa Maria,46.57,8.8,no,Temperate,Switzerland,yes,yes,,0.2,,38,,57.3,1,0.1,150,44.02,1765,1168,0.15
+Sayano-Shushenkaya,52.83,91.37,no,Boreal,Russia,,yes,Hydropower,0.53,432.94,,,,608,30.71,,0.44,405,482,0.33
+Segredo,-25.78,-52.1,no,Subtropical,Brazil,,yes,,18.2,667.5,12.67,,36.6,82,3,47,16.28,1782,692,17.97
+Serra da Mesa,-13.85,-48.33,no,Tropical,Brazil,,yes,,64,671.77,2,,30.5,1784,54.4,770,22.29,1740,382,25.41
+Serrig,49.57,6.59,no,Temperate,Germany,,yes,,437.81,,,,,0.38,,,26.19,691,295,9.69
+Seven Mile,55.97,-120.4,no,Boreal,Canada,,yes,,82.13,-199.4,23,,,4,,,2.7,474,184,1.53
+Seven Sisters Falls,50.12,-96,no,Boreal,Canada,,yes,,,1357.9,71,,,21,,,0.37,517,44,2.22
+Shannon Lagoon,-41.99,146.74,no,Temperate,Austrailia,yes,unknown,,0.83,24.82,,,0.6,,,,7.74,859,472,6.15
+Shasta,40.85,-122.38,no,Temperate,United States,,yes,,7.13,340,60,,75.3,77,5.8,372,22.09,1525,808,15.51
+Shuibuya,30.25,110.17,no,Subtropical,China,,yes,,,212.87,2,,,,4.31,,21.43,1380,1081,13.27
+Sihl,47.13,8.8,no,Temperate,Switzerland,,yes,,0.2,125.5,70,,8.9,11,0.1,140,147.98,1298,893,7.07
+Skellefte,64.5,20.68,no,Boreal,Sweden,,yes,,,24.5,70,,,817,,,1.67,575,210,1.87
+Skinnmuddselet,64.03,18.32,no,Boreal,Sweden,,yes,,,298.6,15,,6.5,27,170,110,2.81,602,234,1.03
+Slave Falls,50.22,-95.57,no,Boreal,Canada,,yes,,,280.4,35,,,7,,,0.37,531,44,2.08
+Smallwood Reservoir,54.1,-64.4,no,Boreal,Canada,,yes,,3.08,70.36,32,,,6988,,,10.52,834,550,-4.23
+Solina,49.37,22.45,no,Temperate,Poland,,yes,,0,-36.3,41,,22,22,0.5,215,6.44,722,543,6.48
+Stave Lake,49.33,-122.28,no,Temperate,Canada,,yes,,,164.2,91,,0.3,1170,0.4,150,40.14,1887,1198,9.49
+Tehri,30.38,78.48,no,Temperate,India,,yes,,20.93,116.16,5,,,42,4,,72.74,1264,1214,21.37
+Thirparappu,8.38,77.25,no,Tropical,India,,unknown,,106.44,205.27,,,,,,,47.86,1259,0,27.32
+Three Gorges,31.03,109.55,no,Temperate,China,,yes,,11.15,910.26,1.31,5,70,1084,39.3,,46.16,1062,381,17.67
+Tigercat Lake,46.02,-91.23,no,Temperate,United States,,yes,,11,60,60,,,3,,,2.19,815,306,4.12
+Toulnoustouc,50.1,-68.38,no,Boreal,Canada,,yes,,0.08,379.9,46,,,235,,,10.09,1063,687,-1.74
+Três Marias,-18.23,-45.25,no,Tropical,Brazil,,yes,,100.01,255.7,44.67,,20.2,1040,21,120,21.19,1227,303,23.28
+Tsengwen,23.27,120.55,no,Subtropical,Taiwan,,yes,,4.46,23.2,38,6.35,,1.77,0.75,237,20.24,2752,2641,22.51
+Tucurui,-3.92,-49.6,yes,Tropical,Brazil,,yes,,55.08,2636.4,17,,18.9,2430,46,51,23.89,2390,1096,27.22
+Ume,63.82,20.12,no,Boreal,Sweden,,yes,,,12.3,70,,,360,,,5.84,582,220,2.45
+Upper Charette Lake,36.18,-104.82,no,Temperate,United States,,unknown,,,253,73,,,1,,,0.27,413,0,8.85
+Upper Enterprise Reservoir,37.52,-113.86,no,Temperate,United States,,unknown,,,-5.5,91,1.05,,0.43,,,0.23,349,0,9.33
+Upper Lake Mary,35.07,-111.52,no,Temperate,United States,,unknown,,,847.13,63,5.48,,0.74,,,8.96,534,204,8.61
+Upper Salmon,48.3,-56.5,no,Temperate,Canada,,yes,,,524.5,20,,,130,,,16.62,1308,865,3.64
+Upper Salmon (Long Pond),48.58,-56.5,no,Temperate,Canada,,yes,,,519.8,33,,,130,,,12.47,1215,772,3.07
+Ute Reservoir,35.33,-103.43,no,Temperate,United States,,no,Recreation,,191.3,40,,,33.18,,,0.1,375,0,14.47
+Vettaru,10.82,79.05,no,Tropical,India,,unknown,,41.2,562.48,,,,,,,59.75,889,57,28.83
+Volta Grande,-20.17,-47.58,no,Subtropical,Brazil,,yes,,3.29,261.9,38,,,205,23,,27.36,1546,348,21.04
+Wadi Al-Arab,32.62,35.64,no,Temperate,Jordan,,unknown,Irrigation,,272.73,22,,,0.56,0.01,214,138.71,356,124,21.94
+Wallace Lake,35.55,-105.15,no,Temperate,United States,,unknown,,,664.8,83,,,0.4,,,3.49,411,0,9.08
+Wallula,45.92,-119.17,no,Temperate,United States,,yes,,6.75,-95.2,50,,1.5,157,0.2,1.25,4.68,223,0,12.17
+Wan'an,26.55,114.68,no,Subtropical,China,,unknown,,,153.27,20,8.8,,107.5,2.22,,79.33,1436,685,18.89
+Waneta,49.08,-117.62,no,Temperate,Canada,,yes,,29.1,-127.9,20,,,,,,11.57,617,844,8.37
+Watts Bar,35.62,-84.78,no,Temperate,United States,,yes,,5.65,267.18,70,2.3,7.9,176,1.4,21,12.27,1401,643,14.22
+Wayatinah Lagoon,-42.39,146.51,no,Temperate,Austrailia,,yes,,10.58,-1.64,,,6.4,,,,4.91,1082,361,10.55
+Whatshan,49.08,-116.1,no,Temperate,Canada,,yes,,4.35,90.65,45.5,,,15,,,4.1,663,403,6.03
+Wilcza Wola,21.9,50.35,no,Subtropical,Poland,,no,Recreation,181.26,1098.36,21,,2.6,1.6,0,36,,49,0,27.36
+William H. Harsha Lake,39.02,-84.13,no,Temperate,United States,,no,Flood Control,176,1974,34,20.9,12.9,7.85,0.1,849,147.68,1085,353,11.48
+Williston-Finlay,56.17,-124.17,no,Boreal,Canada,,yes,,,192,41,,42.3,1660,70.3,,1.85,522,287,1.45
+Williston-Parsnip,55.82,-123.6,no,Boreal,Canada,,yes,,,479.5,33,,39.5,1779,70.3,803,0.75,589,72,-1.39
+Williston-Peace,56.12,-123.32,no,Boreal,Canada,,yes,,,250.9,23,,42.3,1660,70.3,,3.04,594,331,-1.91
+Wivenhoe Lake,-27.32,152.57,no,Subtropical,Austrailia,,yes,Water Supply,2.85,,27,8.5,,109.4,,,64.06,946,228,19.78
+Wohlen,46.97,7.28,no,Temperate,Switzerland,,yes,,159.97,287.2,87,16.01,10,2.5,0.02,2,91.61,896,1091,8.76
+Wujiangdu,27.28,106.62,no,Subtropical,China,,yes,,,700.48,28,5.12,,47.8,2.1,,57.63,1105,651,15.97
+Xin'anjiang,29.1,119,no,Subtropical,China,,yes,,,84.49,41,,,573,21.63,,103.8,1590,631,17.46
+Xingó,-9.62,-37.78,no,Tropical,Brazil,,yes,,30.06,2159.6,10,,11.7,60,0.7,22,15.94,526,134,25.27
+Xipi,25,118,no,Subtropical,China,,unknown,,,,,,10.83,,,,161.08,1454,85,19.7
+Xiuwen,26.75,106.35,no,Subtropical,China,,yes,,,564.61,47,,,,0.02,,53.09,1172,880,15.77
+Yuba Reservoir,39.37,-112.02,no,Temperate,United States,,unknown,,,379.35,89,0.8,,17.86,,,0.3,308,0,9.67
+Zeuzier,46.35,7.43,no,Temperate,Switzerland,yes,yes,,0.1,,49,,60,1,0.1,120,39.07,1538,728,3.17
