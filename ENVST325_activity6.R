@@ -108,6 +108,8 @@ library(lubridate)
 library(ggplot2)
 library(forecast)
 library(dplyr)
+library(PerformanceAnalytics)
+library(olsrr)
 
 # average fields for each month for almonds
 almond <- ETdat %>% # ET data
@@ -196,6 +198,68 @@ ggplot() +
 
 ###Q1: use the CO2 transformation to design a regression analysis on the impact
 #of reservoir characteristics on CO2 fluxes
+ghg$trans_co2 <- 1/(ghg$co2 + 1000)
+
+#look at which variables are available
+str(ghg)
+#based on that, use the following in the analysis: airTemp, log.age, log.DIP, log.precip, 
+                                                  #region types
+
+#create model
+mod.CO2 <- lm(trans_co2 ~ 
+                airTemp + log.age + log.DIP + log.precip + 
+                BorealV + TropicalV + AlpineV, data = ghg)
+summary(mod.CO2)
+
+#step two is to check the assumptions before going all in on interpretation
+#set up objects to look at the residuals 
+res.CO2.full <- rstandard(mod.CO2)
+fit.CO2.full <- fitted.values(mod.CO2)
+
+#check normality using a qqplot OR the shapiro test
+# qq plot
+qqnorm(res.CO2.full, pch=19, col="grey50")
+qqline(res.CO2.full)
+#qq plot appears to be good, the residuals mostly follow the line except for at the end
+# shapiro-wilks test
+shapiro.test(res.CO2.full)
+#the p-value is .0002695, which is less than p=.05, so we would reject the null hypothesis
+#suggests the data is not normally distributed, could be because of the 
+#different land types so proceed with caution
+
+#check the plot of the residuals 
+plot(fit.CO2.full,res.CO2.full, pch=19, col="grey50")
+abline(h=0)
+#the residuals appear to be somewhat normally distributed, have equal variance, and 
+#be independent. there is some clustering, so we proceed w/ caution
+
+#step four is to look for multicollinearity (only an issue for multiple regression)
+#isolate continuous model variables into data frame:
+multicol.data <- data.frame(ghg$airTemp,
+                       ghg$log.age,
+                       ghg$log.DIP,
+                       ghg$log.precip, 
+                       ghg$BorealV, 
+                       ghg$TropicalV, 
+                       ghg$AlpineV)
+#make a correlation matrix 
+chart.Correlation(multicol.data, histogram=TRUE, pch=19)
+
+##part four: model selection
+# run stepwise
+CO2.step <- ols_step_forward_aic(mod.CO2)
+# view table
+CO2.step 
+#the lower the aic, the better the fit 
+#as we add variables and we see large drops in the aic, that indicates that
+#adding that variable makes the fit of the model better 
+#check full model
+CO2.step$model
+#plot AIC over time
+plot(CO2.step)
+#there isn't huge jumps in the steps of the model, but it seems like age, precip,
+#and boreal help increase the fit of the model
+
 
 ###Q2: decompose the ET time series for almonds, pistachios, fallow/idle fields, corn, and 
 #table grapes. evaluate diffs in the observations, trends, and seasonality of diff crops
@@ -290,6 +354,26 @@ points(pist_fit3, type = "l", col = "steelblue", lty = 2, lwd=2)
 
 future_pist <- forecast(pistachio_model3)
 
+#make dataframe for plotting
+Pistachio_F <- data.frame(future_pist)
+
+# set up dates
+years <- c(rep(2021,4),rep(2022,12), rep(2023,8))
+month <- c(seq(9,12),seq(1,12), seq(1,8))
+Pistachio_F$dateF <- ymd(paste(years,"/",month,"/",1))
+
+# make a plot with data and predictions including a prediction interval
+ggplot() +
+  geom_line(data = pistachio, aes(x = ymd(date), y = ET.in))+
+  xlim(ymd(pistachio$date[1]),Pistachio_F$dateF[24])+  # Plotting original data
+  geom_line(data = Pistachio_F, aes(x = dateF, y = Point.Forecast),
+            col="red") +  # Plotting model forecasts
+  geom_ribbon(data=Pistachio_F, 
+              aes(x=dateF,ymin=Lo.95,
+                  ymax=Hi.95), fill=rgb(0.5,0.5,0.5,0.5))+ # uncertainty interval
+  theme_classic()+
+  labs(title = "Pistachios", x="year", y="Evapotranspiration (in)")
+
 #FALLOW/IDLE FIELDS
 fallow_y <- na.omit(fallow_idle_ts)
 fallow_model1 <- arima(fallow_y , # data 
@@ -310,6 +394,25 @@ points(fallow_fit2, type = 'l', col = 'darkgreen', lty = 2, lwd =2)
 
 future_fallow <- forecast(fallow_model2)
 
+#make dataframe for plotting
+Fallow_F <- data.frame(future_fallow)
+
+# set up dates
+years <- c(rep(2021,4),rep(2022,12), rep(2023,8))
+month <- c(seq(9,12),seq(1,12), seq(1,8))
+Fallow_F$dateF <- ymd(paste(years,"/",month,"/",1))
+
+# make a plot with data and predictions including a prediction interval
+ggplot() +
+  geom_line(data = fallow_idle, aes(x = ymd(date), y = ET.in))+
+  xlim(ymd(fallow_idle$date[1]),Fallow_F$dateF[24])+  # Plotting original data
+  geom_line(data = Fallow_F, aes(x = dateF, y = Point.Forecast),
+            col="red") +  # Plotting model forecasts
+  geom_ribbon(data=Fallow_F, 
+              aes(x=dateF,ymin=Lo.95,
+                  ymax=Hi.95), fill=rgb(0.5,0.5,0.5,0.5))+ # uncertainty interval
+  theme_classic()+
+  labs(title = "Fallow/Idle Fields", x="year", y="Evapotranspiration (in)")
 
 
 
